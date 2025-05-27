@@ -1,4 +1,4 @@
-borrar archivos 
+
 import { useState } from "react";
 
 function PredictorApp() {
